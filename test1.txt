@@ -1,10 +1,1 @@
- Volume in drive C is Win 7
- Volume Serial Number is 94E4-06A9
-
- Directory of C:\Users\user\Desktop\FirstGitProject
-
-06-02-2020  16:08    <DIR>          .
-06-02-2020  16:08    <DIR>          ..
-06-02-2020  16:08                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   5,562,376,192 bytes free
+change 1
